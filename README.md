@@ -1,6 +1,6 @@
 # 📸 Computer Vision Studio
 
-An advanced, **real-time browser-based Computer Vision application** with an interactive user interface — perfect as a **final year project**.  
+An advanced, **real-time browser-based Computer Vision application** with an interactive user interface.  
 Built using **TensorFlow.js, MediaPipe, and modern web technologies**, this app demonstrates multiple CV capabilities directly in your browser.
 
 ---
