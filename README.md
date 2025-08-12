@@ -3,7 +3,6 @@
 An advanced, **real-time browser-based Computer Vision application** with an interactive user interface.  
 Built using **TensorFlow.js, MediaPipe, and modern web technologies**, this app demonstrates multiple CV capabilities directly in your browser.
 
----
 
 ## 🚀 Features
 
@@ -48,12 +47,7 @@ No heavy build tools required. Just open in a browser.
 ### 3. Run Locally
 If you have VS Code, install **Live Server** extension → Right click `index.html` → "Open with Live Server".  
 Alternatively, use Python:
-```
-python -m http.server 8000
-```
-Go to: [http://localhost:8000](http://localhost:8000)
 
----
 
 ## 🎮 Usage
 
